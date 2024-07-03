@@ -1,7 +1,7 @@
 
 
 
-# Minecraft Progression Reloaded
+![Minecraft Progression Reloaded](https://cdn.modrinth.com/data/cached_images/bd5768a6bbaede3b7def66b253ef1adf9b6d33ce.png)
 This is a Minecraft Modpack for fabric that changes Minecraft's Progression.
 
 **THIS MODPACK IS IN EARLY ALPHA** - *expect bugs and changes in the future*
