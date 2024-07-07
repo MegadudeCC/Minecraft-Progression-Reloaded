@@ -16,9 +16,9 @@ This is a Minecraft Modpack for fabric that changes Minecraft's Progression.
 > This modpack uses custom scripts made in JavaScript with KubeJS, which provides custom features for this modpack. You can learn more about KubeJS here: [KubeJS](https://kubejs.com/)
 
 <details>
-<summary>Mod List - 69 Mods</summary>
+<summary>Mod List - 73 Mods</summary>
 
-These are the mods in the modpack in alphabetical order (also includes some resource packs). Some of them are from fabulously optimized, some of them are libraries for each other, and some of them add cool features.
+These are the mods in the modpack in alphabetical order (also includes some resource packs). Some of them are from fabulously optimized, some of them are libraries for each other, and some of them add cool features. This mod list is for the most recent version of the pack. Some older releases may have different mods in them.
 
  - [Advancement Info](https://modrinth.com/mod/advancementinfo) shows more information about advancement requirements
  - [Aileron](https://modrinth.com/mod/aileron) overhauls the elytra
@@ -29,6 +29,7 @@ These are the mods in the modpack in alphabetical order (also includes some reso
  - [Bat Membrane](https://modrinth.com/mod/bat-membrane) removes phantoms and makes bats drop phantom membrane
  - [Bean's Backpacks](https://modrinth.com/mod/beans-backpacks) adds backpacks
  - [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) improves horse HUD
+-  [Better Trims](https://modrinth.com/mod/bettertrims) gives armor trims unique effects when worn
  - [CIT Resewn](https://modrinth.com/mod/cit-resewn) re-implements custom item textures
  - [Capes](https://modrinth.com/mod/capes) lets you use capes from other mods
  - [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper) explains chat reporting in a simple and neutral way
@@ -39,6 +40,8 @@ These are the mods in the modpack in alphabetical order (also includes some reso
  - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) lets Minecraft use borderless fullscreen
  - [Debugify](https://modrinth.com/mod/debugify) removes some bugs from the game
  - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) lowers the fps when you are not playing
+- [Easy Anvils](https://modrinth.com/mod/easy-anvils) makes anvils easier and removes the max level limit
+- [Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser) makes enchanting easier and removes RNG
  - [Enhanced Block Entities](https://modrinth.com/mod/ebe) increases performance using block entities
  - [Entity Culling](https://modrinth.com/mod/entityculling) uses async path-tracing to hide Block-/Entities that are not visible
  - [Fabric API](https://modrinth.com/mod/fabric-api) is a lightweight and modular API for fabric mods
@@ -51,7 +54,7 @@ These are the mods in the modpack in alphabetical order (also includes some reso
  - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) makes the grass go on the sides
  - [Fast Minecart](https://modrinth.com/mod/fast-minecart) makes minecarts faster
  - [Fast Quit](https://modrinth.com/mod/fastquit) lets you return to the title screen while your world saves in the background
- - [Ferrite Core](https://modrinth.com/mod/ferrite-core) optimizes memory usage\
+ - [Ferrite Core](https://modrinth.com/mod/ferrite-core) optimizes memory usage
  - [Healing Soup](https://modrinth.com/mod/healing-soup) makes soup heal hearts and adds new soup
  - [Immediately Fast](https://modrinth.com/mod/immediatelyfast) speeds up immediate mod rendering
  - [Indium](https://modrinth.com/mod/indium) is an add-on for sodium which provides support for the fabric rendering API
@@ -113,4 +116,7 @@ If you try to play Minecraft normally with this modpack, you will first notice t
 - **Mobs will be more difficult to fight** when you get more advancements. 
 </details>
 
+
+Wanna support the modpack?
+Go to the [Github Page](https://github.com/MegadudeCC/Minecraft-Progression-Reloaded) and report any bugs
 
