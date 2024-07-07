@@ -6,6 +6,8 @@ This is a Minecraft Modpack for fabric that changes Minecraft's Progression.
 
 **THIS MODPACK IS IN EARLY ALPHA** - *expect bugs and changes in the future*
 
+### Download on [Modrinth](https://modrinth.com/modpack/minecraft-progression-reloaded)
+
 ## Features
 ### Performance 
 
